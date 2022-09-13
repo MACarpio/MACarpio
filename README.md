@@ -14,7 +14,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)][instagram]
 &nbsp;&nbsp;
-[![website](./img/mail-dark.svg)][mail]
+[![website](./img/mail.svg)][mail]
 
 ---
 
